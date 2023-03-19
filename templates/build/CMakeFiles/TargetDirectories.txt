@@ -1,0 +1,3 @@
+C:/Curs C++/templates/build/CMakeFiles/Templates.dir
+C:/Curs C++/templates/build/CMakeFiles/edit_cache.dir
+C:/Curs C++/templates/build/CMakeFiles/rebuild_cache.dir

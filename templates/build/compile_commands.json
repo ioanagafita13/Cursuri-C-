@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Curs C++/templates/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Curs C++/templates/include\" -g -std=gnu++17 -o CMakeFiles\\Templates.dir\\src\\main.cpp.obj -c \"C:\\Curs C++\\templates\\src\\main.cpp\"",
+  "file": "C:\\Curs C++\\templates\\src\\main.cpp"
+}
+]
