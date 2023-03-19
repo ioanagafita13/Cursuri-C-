@@ -1,0 +1,3 @@
+C:/Curs C++/OOP/build/CMakeFiles/OOP.dir
+C:/Curs C++/OOP/build/CMakeFiles/edit_cache.dir
+C:/Curs C++/OOP/build/CMakeFiles/rebuild_cache.dir

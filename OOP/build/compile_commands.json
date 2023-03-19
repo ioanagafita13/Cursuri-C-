@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Curs C++/OOP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Curs C++/OOP/include\" -g -std=gnu++17 -o CMakeFiles\\OOP.dir\\src\\Bicicleta.cpp.obj -c \"C:\\Curs C++\\OOP\\src\\Bicicleta.cpp\"",
+  "file": "C:\\Curs C++\\OOP\\src\\Bicicleta.cpp"
+},
+{
+  "directory": "C:/Curs C++/OOP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Curs C++/OOP/include\" -g -std=gnu++17 -o CMakeFiles\\OOP.dir\\src\\Car.cpp.obj -c \"C:\\Curs C++\\OOP\\src\\Car.cpp\"",
+  "file": "C:\\Curs C++\\OOP\\src\\Car.cpp"
+},
+{
+  "directory": "C:/Curs C++/OOP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Curs C++/OOP/include\" -g -std=gnu++17 -o CMakeFiles\\OOP.dir\\src\\ContBancar.cpp.obj -c \"C:\\Curs C++\\OOP\\src\\ContBancar.cpp\"",
+  "file": "C:\\Curs C++\\OOP\\src\\ContBancar.cpp"
+},
+{
+  "directory": "C:/Curs C++/OOP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Curs C++/OOP/include\" -g -std=gnu++17 -o CMakeFiles\\OOP.dir\\src\\Motor.cpp.obj -c \"C:\\Curs C++\\OOP\\src\\Motor.cpp\"",
+  "file": "C:\\Curs C++\\OOP\\src\\Motor.cpp"
+},
+{
+  "directory": "C:/Curs C++/OOP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Curs C++/OOP/include\" -g -std=gnu++17 -o CMakeFiles\\OOP.dir\\src\\main.cpp.obj -c \"C:\\Curs C++\\OOP\\src\\main.cpp\"",
+  "file": "C:\\Curs C++\\OOP\\src\\main.cpp"
+}
+]
