@@ -1,0 +1,3 @@
+C:/Curs C++/Smart pointers/build/CMakeFiles/Smart-pointers.dir
+C:/Curs C++/Smart pointers/build/CMakeFiles/edit_cache.dir
+C:/Curs C++/Smart pointers/build/CMakeFiles/rebuild_cache.dir
